@@ -48,6 +48,10 @@ iframe{
     color: black;
 }
 
+#map{
+    margin-left: auto;
+    margin-right: auto;
+}
 
 #nav{
     margin-left: auto;
