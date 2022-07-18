@@ -48,6 +48,12 @@ iframe{
     color: black;
 }
 
+#logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 #map{
     display: block;
     margin-left: auto;
