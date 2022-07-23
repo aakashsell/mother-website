@@ -9,26 +9,40 @@ a{
     text-decoration: none;
 }
 
+body{    
+    background-color: #6bebff;
+    background: #6bebff;
+}
+
 html{
     height: 100vh;
     width: calc(100vw - (100vw - 100%));
-    background-color: #6bebff;
     font-family: 'Lato', sans-serif;
 }
 
 iframe{
+    margin-top: 20px;
+    margin-bottom: 30px;
+    width: 80%;
+    height: width;
+    display:block;
     margin-left: auto;
     margin-right: auto;
 }
 
 #logo{
-    max-width: 100%;
-    width: 75%;
+    width: 60%;
     height: auto;
     margin-top: 20px;
+    margin-bottom: 20px;
     display: block;
     margin-left: auto;
     margin-right: auto;
+}
+
+#main{
+    background-color: beige;
+    text-align: center;
 }
 
 
