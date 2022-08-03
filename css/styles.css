@@ -30,13 +30,17 @@ iframe{
     margin-right: auto;
 }
 
+.navbar{
+    color: #FFFFFF;
+}
+
 .navbar-brand {
     max-width: 90%;
+    color: #FFFFFF;
 }
 
 .navbar-default {
     background-color: #464CA3;
-    color: #FFFFFF;
     text-decoration: none;
 }
 
