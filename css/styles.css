@@ -32,24 +32,29 @@ iframe{
 
 ul {
     text-align: center;
-    list-style-position: inside;
-    list-style: none;
+    list-style-position: inside;    
 }
 
-.active a{
-    color: #FFFFFF;
-}
 
 .navbar{
     margin-bottom: 30px;
 }
+
+.nav-link {
+    color: white !important;
+}
+
+.active {
+    color: #c0c1c4 !important; 
+}
+
 
 .navbar-brand {
     max-width: 90%;
 }
 
 .navbar-default {
-    background-color: #464CA3;
+    background-color: #464CA4;
     text-decoration: none;
 }
 
