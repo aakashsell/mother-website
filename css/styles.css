@@ -30,14 +30,22 @@ iframe{
     margin-right: auto;
 }
 
-.navbar{
+ul {
+    text-align: center;
+    list-style-position: inside;
+    list-style: none;
+}
+
+.active a{
     color: #FFFFFF;
+}
+
+.navbar{
     margin-bottom: 30px;
 }
 
 .navbar-brand {
     max-width: 90%;
-    color: #FFFFFF;
 }
 
 .navbar-default {
