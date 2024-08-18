@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendly//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20240520T161531Z
+UID:calendly-988908715
+DTSTART:20240527T180000Z
+DTEND:20240527T183000Z
+CLASS:PRIVATE
+DESCRIPTION:Event Name: Driving Simulation Experiment\nDate & Time: 02:00pm
+  - 02:30pm (Eastern Time - US & Canada) on Monday\, May 27\, 2024\nAny cha
+ nges to the venue will be communicated before your slot!\n\nNeed to make c
+ hanges to this event?\nCancel: https://calendly.com/cancellations/f880a87a
+ -5338-403b-9667-c35311eca3de\nReschedule: https://calendly.com/reschedulin
+ gs/f880a87a-5338-403b-9667-c35311eca3de\n
+LOCATION:B45\, Porter Hall
+SUMMARY:Driving Simulation Experiment with Eshika Pathak
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
